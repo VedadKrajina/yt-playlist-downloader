@@ -25,6 +25,10 @@ Ensure that `ffmpeg` is installed on your system. You can install it using:
 sudo apt install ffmpeg
 ```
 
+```bash
+winget install --id=Gyan.FFmpeg  -e
+```
+
 ## Usage
 
 To download a playlist, run the script and provide the playlist URL when prompted:
